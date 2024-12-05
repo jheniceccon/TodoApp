@@ -1,0 +1,22 @@
+O ToDoApp foi desenvolvido como uma aplicação de lista de tarefas simples e funcional, utilizando HTML, CSS e JavaScript. Ele permite aos usuários adicionar, concluir e remover tarefas com uma interface intuitiva e responsiva.
+
+Estrutura e Funcionalidades
+HTML: Estrutura básica composta por um título, campo de entrada, botão "Adicionar" e uma lista desordenada para exibir as tarefas.
+CSS: Estilização moderna com:
+Layout centralizado e responsivo.
+Container principal com bordas arredondadas, sombreamento suave e cores neutras.
+Botões com transições de cor e tarefas concluídas estilizadas com fundo azul claro e texto tachado.
+JavaScript:
+Adicionar Tarefas: Captura o texto inserido e o exibe como um item da lista.
+Concluir Tarefas: Alterna o estilo para indicar conclusão.
+Remover Tarefas: Exclui o item correspondente.
+Desafios e Soluções
+Consistência Visual: Ajustes nas cores e transições para criar um tema coeso e amigável.
+Responsividade: Garantia de funcionalidade em diferentes dispositivos com largura máxima no container principal.
+Interatividade: Uso de transições suaves e efeitos de hover para melhorar a experiência do usuário.
+Uso do Git
+O Git foi essencial para gerenciar o projeto:
+
+Branches Separadas: Novas funcionalidades e estilos foram desenvolvidos em branches específicas, como feature/task-management e feature/add-styling.
+Commits Descritivos: Mensagens claras documentaram cada alteração, como Add task completion functionality.
+Resolução de Conflitos: Integração tranquila das branches usando ferramentas de merge.
